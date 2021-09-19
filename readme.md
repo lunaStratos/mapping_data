@@ -7,4 +7,5 @@ table_weather_kma_map : 기상청 초단기와 동네예보에 사용되는 x,y�
 
 중기예보의 경우 api가 2개로 나뉘어져 있고 맵핑도 2가지 데이터로 해야 한다.
 midterm_location_temperature : 기상청 중기예보 기온
+
 midterm_location_temperature : 기상청 중기예보 날씨
