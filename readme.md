@@ -1,6 +1,10 @@
 # 소개
 
+매번 만들때마다 데이터 얻는게 힘들어서 모음
+api 2.0기준 데이터임. 
+
 table_weather_airkorea : 에어코리아(환경부) 전국 맵핑 데이터
+
 table_weather_kma : 기상청 관련 전국 맵핑 데이터
 
 table_weather_kma_map : 기상청 초단기와 동네예보에 사용되는 x,y값(위경도가 아님!)을 맵핑한 데이터
